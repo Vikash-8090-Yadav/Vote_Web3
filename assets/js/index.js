@@ -5,7 +5,6 @@ if(typeof window.ethereum =="undefined"){
 
   var accounts;
 	let web3 = new Web3(window.ethereum);
-  console.log(web3.version)
    let contract = new web3.eth.Contract(
 		 [
 	     {
@@ -123,7 +122,6 @@ if(typeof window.ethereum =="undefined"){
   );
    	async function  account(){
 	   	accounts = await web3.eth.requestAccounts();
-		  console.log(accounts);
        contract.methods.owner().call().then(function (resp){
         const owner_address = resp;
 
