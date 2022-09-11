@@ -1,12 +1,14 @@
-# This repository is created under  H2S Hackathon
+
+#  <p align = "center"> Blockchain-based E-voting System </p>
 <br>
-<h1>
-To run this website  click on this link below <br><br>
-Spheron : https://vote-web3-5tpcov.spheron.app/
-  <br><br>
-Ipfs : https://spheron.infura-ipfs.io/ipfs/QmVAfnCjKVoKP9FQbRgmoRkPZFVxpe2B9gDh2UFtaWSitF
-  <br> 
-</h1>
+
+##  📌 This repository is created under  H2S Hackathon
+
+## To run this website  click on this link below <br><br>
+### Spheron : https://vote-web3-5tpcov.spheron.app/
+
+### Ipfs : https://spheron.infura-ipfs.io/ipfs/QmVAfnCjKVoKP9FQbRgmoRkPZFVxpe2B9gDh2UFtaWSitF
+<br> 
 
 #  About Vote_web3 
 
