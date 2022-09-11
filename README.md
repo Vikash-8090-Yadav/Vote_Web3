@@ -1,13 +1,16 @@
-# This repository is created under  FUTURE READY TALENT INTERNSHIP 
+# This repository is created under  H2S Hackathon
 <br>
 <h1>
-To run this website  click on this link below <br>
-https://blue-sand-0ca91ca10.1.azurestaticapps.net/
+To run this website  click on this link below <br><br>
+Spheron : https://vote-web3-5tpcov.spheron.app/
+  <br><br>
+Ipfs : https://spheron.infura-ipfs.io/ipfs/QmVAfnCjKVoKP9FQbRgmoRkPZFVxpe2B9gDh2UFtaWSitF
+  <br> 
 </h1>
 
 #  CU-RESTUARANT 
 
-One of the most popular college resturant in the capital, CU resturant enjoys a large hall that can accommodate more than 150 students at a given time. Famous for its a huge egg-shaped snack in a bread jacket with lots of stuffing. Apart from the famed chops, the menu includes chicken pakora, chicken stew or chicken curry, roti, dalpuri, alu dum, ghooghni, noodles, burgers, biscuits and cakes from Monginis, and of course tea, coffee , aerated drinks, samosas and spring rolls at a reasonably low price, the canteen serves as a perfect adda for enthusiasts. CU resturant , located in mohali chnadigarh, has an exceptionally huge campus, stretching across an area of more than 200 acres. But it is the only resturant that is considered the favourite hangout zone by students. A wide variety of food is in the offering at the lowest rates and keeps student pretty pleased.
+#### This project aims at implementing a voting system based on Blockchain technology. It is a secure, transparent and decentralized way of voting. It converts ballots into transactions and securely mines blocks out of them. A Blockchain-based voting system that aims to address many of the problems faced in today’s elections and promises new opportunities, from securing transparency to making the voting process more accessible, affordable, and safe. The advantage of a blockchain based voting system include the ability to vote from any place and prevent any tampering of votes.
 
 # Landing page : 
 
