@@ -11,10 +11,13 @@ Ipfs : https://spheron.infura-ipfs.io/ipfs/QmVAfnCjKVoKP9FQbRgmoRkPZFVxpe2B9gDh2
 #  CU-RESTUARANT 
 
 #### This project aims at implementing a voting system based on Blockchain technology. It is a secure, transparent and decentralized way of voting. It converts ballots into transactions and securely mines blocks out of them. A Blockchain-based voting system that aims to address many of the problems faced in today’s elections and promises new opportunities, from securing transparency to making the voting process more accessible, affordable, and safe. The advantage of a blockchain based voting system include the ability to vote from any place and prevent any tampering of votes.
+<br><br>
+
+![vote](https://user-images.githubusercontent.com/85225156/189523273-571225c9-3333-458f-b149-4b9d0b3926c3.png)
 
 # Landing page : 
 
-![WhatsApp Image 2022-05-20 at 7 22 10 PM](https://user-images.githubusercontent.com/85225156/169542750-a17241ea-744f-4a22-8e56-ac37beed620b.jpeg)
+![Screenshot from 2022-09-11 16-11-02](https://user-images.githubusercontent.com/85225156/189523283-baf4f9e6-12ea-41f7-8b56-16b51f2b7054.png)
 
 
 # About page :
