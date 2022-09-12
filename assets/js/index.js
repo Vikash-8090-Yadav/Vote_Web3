@@ -1,5 +1,5 @@
 if(typeof window.ethereum =="undefined"){
-		console.log("PLease install the metamask");
+		alert("PLease install the metamask");
 	}
 
 
