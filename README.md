@@ -1,43 +1,63 @@
-# This repository is created under  FUTURE READY TALENT INTERNSHIP 
-<br>
-<h1>
-To run this website  click on this link below <br>
-https://blue-sand-0ca91ca10.1.azurestaticapps.net/
-</h1>
 
-#  CU-RESTUARANT 
-
-One of the most popular college resturant in the capital, CU resturant enjoys a large hall that can accommodate more than 150 students at a given time. Famous for its a huge egg-shaped snack in a bread jacket with lots of stuffing. Apart from the famed chops, the menu includes chicken pakora, chicken stew or chicken curry, roti, dalpuri, alu dum, ghooghni, noodles, burgers, biscuits and cakes from Monginis, and of course tea, coffee , aerated drinks, samosas and spring rolls at a reasonably low price, the canteen serves as a perfect adda for enthusiasts. CU resturant , located in mohali chnadigarh, has an exceptionally huge campus, stretching across an area of more than 200 acres. But it is the only resturant that is considered the favourite hangout zone by students. A wide variety of food is in the offering at the lowest rates and keeps student pretty pleased.
-
-# Landing page : 
-
-![WhatsApp Image 2022-05-20 at 7 22 10 PM](https://user-images.githubusercontent.com/85225156/169542750-a17241ea-744f-4a22-8e56-ac37beed620b.jpeg)
-
-
-# About page :
-
-![WhatsApp Image 2022-05-20 at 7 30 22 PM](https://user-images.githubusercontent.com/85225156/169544223-4e9dc43e-275d-46e9-bf6d-6936efa3760e.jpeg)
-
-# Gallery 
-
-![WhatsApp Image 2022-05-20 at 7 32 08 PM](https://user-images.githubusercontent.com/85225156/169544732-8143db5d-ae9f-4023-a7d8-270f0c492c14.jpeg)
-
-
-# Chef
-
-![WhatsApp Image 2022-05-20 at 7 35 16 PM](https://user-images.githubusercontent.com/85225156/169545214-6cd2a179-3d5e-434d-8d6c-37126b335900.jpeg)
-
-
-# Contact Page 
-
-![WhatsApp Image 2022-05-20 at 7 37 17 PM](https://user-images.githubusercontent.com/85225156/169545825-328569b4-ee53-4a5f-b21a-4aa92fece6f7.jpeg)
-
+#  <p align = "center"> Blockchain-based E-voting System </p>
 <br>
 
-# U CAN CHECK THE VIDEO FOR THIS PROJECT BY CLICKING ON THE LINK BELOW
+##  📌 This repository is created under  H2S Hackathon
+
+## To run this website  click on this link below <br><br>
+### Spheron : https://vote-web3-5tpcov.spheron.app/
+
+### Ipfs : https://spheron.infura-ipfs.io/ipfs/QmVAfnCjKVoKP9FQbRgmoRkPZFVxpe2B9gDh2UFtaWSitF
+<br> 
+
+#  About Vote_web3 
+
+### This project aims at implementing a voting system based on Blockchain technology. It is a secure, transparent and decentralized way of voting. It converts ballots into transactions and securely mines blocks out of them. A Blockchain-based voting system that aims to address many of the problems faced in today’s elections and promises new opportunities, from securing transparency to making the voting process more accessible, affordable, and safe. The advantage of a blockchain based voting system include the ability to vote from any place and prevent any tampering of votes.
+<br><br>
+
+![vote](https://user-images.githubusercontent.com/85225156/189523273-571225c9-3333-458f-b149-4b9d0b3926c3.png)
+
+# Voting to candidates : 
+
+
+![Screenshot from 2022-09-11 16-15-13](https://user-images.githubusercontent.com/85225156/189523396-9c6db601-fab6-4739-a724-8f20e9ac25f7.png)
+
+# No of votes  :
+
+## Candidate1 :
+
+![Screenshot from 2022-09-11 16-20-01](https://user-images.githubusercontent.com/85225156/189523539-78a4b370-a2c4-4863-836c-29c8d75c21ab.png)
+
+## Candidate2 :
+
+![Screenshot from 2022-09-11 16-19-56](https://user-images.githubusercontent.com/85225156/189523550-118e2f41-2790-4e1d-90df-2e4a690bacb7.png)
+
+
+# Result
+
+## If owner is not declaring the result 
+
+![Screenshot from 2022-09-11 16-22-20](https://user-images.githubusercontent.com/85225156/189523671-457b1674-df5d-47cc-80f8-59d732eb3731.png)
+
+## The result can only declared by the owner 
+![Screenshot from 2022-09-11 16-22-58](https://user-images.githubusercontent.com/85225156/189523667-deee47da-c8b5-4008-8cd0-79866160a31d.png)
+
+
 <br>
 
-# [Project video](https://youtu.be/AnqDyx7UWPk)
+# DEMO VIDEO
+<br>
+
+https://user-images.githubusercontent.com/85225156/189525121-b34208ff-33e8-4ff0-8176-36a280caa35b.mp4
+
+## Address on the polygon muumbai testnet 
+https://mumbai.polygonscan.com/
+
+Txn id :  0x4a7ab7c3c08f8c157811d2d2d17636fc0e1b4c511025e6c412c1aed95e60079d
+
+**Demo video for this**
+
+https://user-images.githubusercontent.com/85225156/189525702-8e8c54c5-998c-425a-a915-b0824ec88cb8.mp4
 
 <br>
 
